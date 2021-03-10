@@ -7,8 +7,8 @@
 
 #### 初始化项目
 ``` shell
-$ git clone https://github.com/wmt12135/wmt12135.github.io.git
-$ cd wmt12135.github.io
+$ git clone https://github.com/wmt12135/static-navigation.git
+$ cd static-navigation
 $ npm install
 ```
 #### 预览测试
