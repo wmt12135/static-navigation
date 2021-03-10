@@ -1,0 +1,62 @@
+{
+    "视频": [
+        {
+            "name": "bilibili 视频",
+            "description": "学习与娱乐一体的视频网站",
+            "url": "https://www.bilibili.com/",
+            "iconUrl": "https://www.bilibili.com/favicon.ico"
+        },
+        {
+            "name": "腾讯视频",
+            "description": "中国领先的在线视频媒体平台，海量高清视频在线观看",
+            "url": "https://v.qq.com/",
+            "iconUrl": "https://v.qq.com/favicon.ico"
+        },
+        {
+            "name": "优酷视频",
+            "description": "这世界很酷",
+            "url": "https://www.youku.com/",
+            "iconUrl": "https://img.alicdn.com/tfs/TB1WeJ9Xrj1gK0jSZFuXXcrHpXa-195-195.png"
+        },
+        {
+            "name": "爱奇艺视频",
+            "description": "在线视频网站-海量正版高清视频在线观看",
+            "url": "https://www.iqiyi.com/",
+            "iconUrl": "https://www.iqiyi.com/favicon.ico"
+        }
+    ],
+    "游戏": [
+        {
+            "name": "腾讯英雄联盟官网",
+            "description": "",
+            "url": "https://lol.qq.com/",
+            "iconUrl": "https://lol.qq.com/favicon.ico"
+        },
+        {
+            "name": "steam",
+            "description": "steam游戏商城",
+            "url": "https://store.steampowered.com/",
+            "iconUrl": "https://store.steampowered.com/favicon.ico"
+        },
+        {
+            "name": "Epic Games",
+            "description": "Epic Games游戏商城",
+            "url": "https://www.epicgames.com/site/zh-CN/home",
+            "iconUrl": "https://www.epicgames.com/favicon.ico"
+        }
+    ],
+    "新闻": [
+        {
+            "name": "腾讯新闻",
+            "description": "腾讯新闻中心",
+            "url": "https://news.qq.com/",
+            "iconUrl": "https://news.qq.com/favicon.ico"
+        },
+        {
+            "name": "今日头条",
+            "description": "信息创造价值",
+            "url": "https://www.toutiao.com/",
+            "iconUrl": "https://www.toutiao.com/favicon.ico"
+        }
+    ]
+}
