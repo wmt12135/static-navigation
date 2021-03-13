@@ -1,7 +1,7 @@
 {
     "JavaScript": [
         {
-            "name": "w3schools JavaScript Tutorial",
+            "name": "w3schools JavaScript",
             "description": "w3schools JavaScript 教程",
             "url": "https://www.w3schools.com/js/",
             "iconUrl": "https://www.w3schools.com/favicon.ico"
@@ -9,13 +9,13 @@
     ],
     "HTML": [
         {
-            "name": "w3schools HTML Tutorial",
+            "name": "w3schools HTML",
             "description": "w3schools HTML 教程",
             "url": "https://www.w3schools.com/html/",
             "iconUrl": "https://www.w3schools.com/favicon.ico"
         },
         {
-            "name": "MDN HTML 教程",
+            "name": "MDN HTML",
             "description": "",
             "url": "https://developer.mozilla.org/zh-CN/docs/Web/HTML",
             "iconUrl": "https://developer.mozilla.org/favicon.ico"
@@ -23,13 +23,13 @@
     ],
     "CSS": [
         {
-            "name": "w3schools CSS Tutorial",
+            "name": "w3schools CSS",
             "description": "w3schools CSS 教程",
             "url": "https://www.w3schools.com/css/",
             "iconUrl": "https://www.w3schools.com/favicon.ico"
         },
         {
-            "name": "MDN CSS 教程",
+            "name": "MDN CSS",
             "description": "",
             "url": "https://developer.mozilla.org/zh-CN/docs/Web/CSS",
             "iconUrl": "https://developer.mozilla.org/favicon.ico"
