@@ -26,12 +26,6 @@ module.exports = merge(common, {
             filename: '[name]/[contenthash].css',
         }),
         new HtmlWebpackPlugin({
-            template: './test.html',
-            filename: 'test.html',
-            chunks: ['app'],
-            favicon: './favicon.ico',
-        }),
-        new HtmlWebpackPlugin({
             template: './index.html',
             filename: 'index.html',
             chunks: ['app'],
